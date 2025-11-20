@@ -7,5 +7,8 @@ public class LuRunner {
         int y = 6;
         System.out.println(x+y);
         System.out.println("x plus y is "+ y+x);
+        y = 78;
+        x = 52;
+        System.out.println(x+y);
     }
 }
